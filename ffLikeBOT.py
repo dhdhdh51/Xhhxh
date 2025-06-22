@@ -7,9 +7,9 @@ from aiogram.client.default import DefaultBotProperties
 from datetime import datetime, timedelta
 import aiohttp
 
-API_TOKEN = "7942307550:AAEfO0C84Ou37SK11P55Ezr7re2jDf1Udpo"
-ALLOWED_GROUP_ID = -1002551300557
-VIP_USER_ID = 7981526462
+API_TOKEN = "7958349245:AAHpnvkjfNp1fir4PqnnxKbR97aRpqb0Lxw"
+ALLOWED_GROUP_ID = -1002332294251
+VIP_USER_ID = 7091609296
 
 bot = Bot(API_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
